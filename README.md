@@ -41,7 +41,7 @@ MarkDown 내용 정리
 Click [My Git hub](https://github.com/gyoung307/Al_Project)
 
 <!--Image-->
-![Image](https://img.freepik.com/premium-vector/abstract-grainy-gradient-background-with-vibrant-colors_336924-6082.jpg)
+![Image](https://img.freepik.com/premium-vector/abstract-grainy-gradient-background-with-vibrant-colors_336924-6082.jpg )
 
 <!--Table-->
 
