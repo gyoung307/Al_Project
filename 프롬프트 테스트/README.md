@@ -42,3 +42,10 @@ i2i
 
 ![image](https://github.com/gyoung307/Al_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00014-1509143694.png?raw=true)
 
+---
+
+![image](https://raw.githubusercontent.com/gyoung307/Al_Project/a1e0d1dc2f80e54617a638e5bbae9690efb91110/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B7%B8%EB%A6%BC%EC%88%98%EC%A0%95.png)
+
+![image](https://raw.githubusercontent.com/gyoung307/Al_Project/a1e0d1dc2f80e54617a638e5bbae9690efb91110/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00024-4059771151.png)
+
+
