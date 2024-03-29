@@ -24,3 +24,14 @@ outdoors, nature, solo, 1girl, tree, grass, day, blush, forest, traditional medi
 Negative prompt: NSFW
 ```
 Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3108385505, Size: 512x512, Model hash: 6ce0161689, Model: v1-5-pruned-emaonly, VAE hash: df3c506e51, VAE: kl-f8-anime2.ckpt, Denoising strength: 0.4, ADetailer model: face_yolov8n.pt, ADetailer confidence: 0.3, ADetailer dilate erode: 4, ADetailer mask blur: 4, ADetailer denoising strength: 0.4, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer version: 24.3.2, Mask blur: 4, Inpaint area: Only masked, Masked area padding: 32, Version: v1.8.0
+
+
+---
+inpaint
+---
+
+![image](https://raw.githubusercontent.com/gyoung307/Al_Project/2bf8b021619f479e3ad78f4691e253e6f70c187b/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00022-2345644395.png)
+
+![image](https://raw.githubusercontent.com/gyoung307/Al_Project/2bf8b021619f479e3ad78f4691e253e6f70c187b/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00007-2925252503.png)
+
+---
