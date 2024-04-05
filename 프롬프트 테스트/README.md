@@ -56,8 +56,16 @@ i2i
 
 ![image](https://raw.githubusercontent.com/gyoung307/Al_Project/2d7b189aa9cfeeebb015753d308c3f88a42ff63f/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/Line%20art.jpg)
 
+![image](https://github.com/gyoung307/Al_Project/blob/main/ControlNet/Scribble_001.png?raw=true)
+
 ![image](https://raw.githubusercontent.com/gyoung307/Al_Project/2d7b189aa9cfeeebb015753d308c3f88a42ff63f/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00025-1043356757.png)
 
 ![image](https://raw.githubusercontent.com/gyoung307/Al_Project/2d7b189aa9cfeeebb015753d308c3f88a42ff63f/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/Line%20art3.jpg)
 
 ![image](https://raw.githubusercontent.com/gyoung307/Al_Project/2d7b189aa9cfeeebb015753d308c3f88a42ff63f/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00025-523873531.png)
+
+![image](https://github.com/gyoung307/Al_Project/blob/main/ControlNet/Scribble_002.png?raw=true)
+
+![image](https://github.com/gyoung307/Al_Project/blob/main/ControlNet/Scribble_003.png?raw=true)
+
+
