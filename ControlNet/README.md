@@ -23,3 +23,24 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2813738139, Size: 512x5
 ## Pixel
 
 ![image](https://github.com/gyoung307/Al_Project/blob/main/ControlNet/Pixelize_002.png?raw=true)
+
+## Open-pose
+
+![image](https://raw.githubusercontent.com/gyoung307/Al_Project/49befa7ac40784e3c99530e91e26cc2250568505/ControlNet/Open%20pose/Openpose_03.png)
+
+![image](https://raw.githubusercontent.com/gyoung307/Al_Project/49befa7ac40784e3c99530e91e26cc2250568505/ControlNet/Open%20pose/Openpose_02.png)
+
+![image](https://raw.githubusercontent.com/gyoung307/Al_Project/49befa7ac40784e3c99530e91e26cc2250568505/ControlNet/Open%20pose/Openpose_01.png)
+
+## Room
+
+![image](https://raw.githubusercontent.com/gyoung307/Al_Project/49befa7ac40784e3c99530e91e26cc2250568505/ControlNet/Open%20pose/Room_01.png)
+
+## Lora
+
+![image](https://raw.githubusercontent.com/gyoung307/Al_Project/49befa7ac40784e3c99530e91e26cc2250568505/ControlNet/Open%20pose/xxmixunreal_Lora_02.png)
+
+![image](https://raw.githubusercontent.com/gyoung307/Al_Project/49befa7ac40784e3c99530e91e26cc2250568505/ControlNet/Open%20pose/KawaiiTech_Lora_01.png)
+
+![image](https://raw.githubusercontent.com/gyoung307/Al_Project/49befa7ac40784e3c99530e91e26cc2250568505/ControlNet/Open%20pose/Ghibli_Lora_01.png)
+
